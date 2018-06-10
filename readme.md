@@ -23,6 +23,8 @@ npm install
 
 npm run dev
 
+No navegador acesse: localhost:8080
+
 ### Modules
 
 - **axios
