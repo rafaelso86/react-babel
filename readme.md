@@ -1,4 +1,4 @@
-# React + Babel Boilerplate
+# React + Babel - Boilerplate
 
 Repositório criado para fins de estudo com instalação do React + Babel, para executar ES2015, juntamente com outros componentes adicionais. A ideia também é de compartilhar e melhorar o projeto com novas versões e atualizações.
 
@@ -6,11 +6,14 @@ Repositório criado para fins de estudo com instalação do React + Babel, para 
 
 Necessário NodeJs e instalação de modulos, além do conhecimentos de HTML, CSS, Javascript e React.
 
+### Change Log
+10/06/2018 - Repositório React+Babel com alguns componentes configurados, além do Bootstrap e Font Awesome.
+
 ### Instalação
 
-cd <diretorio>
 git init
 git clone https://github.com/rafaelso86/react-babel.git
+cd react-babel
 npm install
 npm run dev
 

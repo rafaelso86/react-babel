@@ -1,7 +1,7 @@
 // Importando as dependências do Bootstrap e do Fonte Awesome
 import 'modules/bootstrap/dist/css/bootstrap.min.css'
 import 'modules/font-awesome/css/font-awesome.min.css'
-import '../template/custom.css'
+import '../css/custom.css'
 
 import React from 'react'
 
