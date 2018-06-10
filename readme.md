@@ -1,4 +1,6 @@
-# React + Babel - Boilerplate
+![CSCore Logo](https://cdn-images-1.medium.com/max/1200/1*6ItHoU8x6M-m7-Pt2UG7cw.png)
+
+#  React + Babel
 
 Repositório criado para fins de estudo com instalação do React + Babel, para executar ES2015, juntamente com outros componentes adicionais. A ideia também é de compartilhar e melhorar o projeto com novas versões e atualizações.
 
@@ -12,36 +14,40 @@ Necessário NodeJs e instalação de modulos, além do conhecimentos de HTML, CS
 ### Instalação
 
 git init
+
 git clone https://github.com/rafaelso86/react-babel.git
+
 cd react-babel
+
 npm install
+
 npm run dev
 
 ### Modules
 
-*"axios": "^0.15.3",
-*"babel-core": "^6.22.1",
-*"babel-loader": "^6.2.10",
-*"babel-plugin-react-html-attrs": "^2.0.0",
-*"babel-plugin-transform-object-rest-spread": "^6.22.0",
-*"babel-preset-es2015": "^6.22.0",
-*"babel-preset-react": "^6.22.0",
-*"bootstrap": "^3.3.7",
-*"css-loader": "^0.26.1",
-*"extract-text-webpack-plugin": "^1.0.1",
-*"file-loader": "^0.9.0",
-*"font-awesome": "^4.7.0",
-*"react": "^15.4.2",
-*"react-dom": "^15.4.2",
-*"react-redux": "^5.0.2",
-*"react-router": "^3.0.2",
-*"redux": "^3.6.0",
-*"redux-multi": "^0.1.12",
-*"redux-promise": "^0.5.3",
-*"redux-thunk": "^2.2.0",
-*"style-loader": "^0.13.1",
-*"webpack": "^1.14.0",
-*"webpack-dev-server": "^1.16.2"
+- **axios
+- **babel-core
+- **babel-loader
+- **babel-plugin-react-html-attrs
+- **babel-plugin-transform-object-rest-spread
+- **babel-preset-es2015
+- **babel-preset-react
+- **bootstrap
+- **css-loader
+- **extract-text-webpack-plugin
+- **file-loader
+- **font-awesome
+- **react
+- **react-dom
+- **react-redux
+- **react-router
+- **redux
+- **redux-multi
+- **redux-promise
+- **redux-thunk
+- **style-loader
+- **webpack
+- **webpack-dev-server
 
 ## Autor
 
