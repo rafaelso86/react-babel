@@ -2,12 +2,12 @@ import React from 'react'
 import { Router, Route, Redirect, hashHistory } from 'react-router'
 
 // Mapeando as rotas
-import Todo from '../todo/todo'
-import About from '../about/about'
+import Home from '../home/home'
 
 // Componente baseado em função
 export default props => (
     <Router history={hashHistory}>
-        <Redirect from ="*" to="/todos" />
+        <Router path="/home" component={Home} />
+        <Redirect from ="*" to="/home" />
     </Router>
 )
