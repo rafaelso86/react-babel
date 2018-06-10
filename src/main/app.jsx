@@ -6,7 +6,7 @@ import '../css/custom.css'
 import React from 'react'
 
 // Rotas
-import Routes from './routes'
+//import Routes from './routes'
 
 // Home
 import Home from '../home/home'
@@ -14,7 +14,6 @@ import Home from '../home/home'
 // Os parênteses demonstram ser uma expressão
 export default props => (
     <div className="container">
-        <Routes />
-        <Home/>
+        <Home />
     </div>
 )
